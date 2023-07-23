@@ -1,3 +1,4 @@
 
 
-<h1 align="center">Hi, Hei, Merhaba! I' m Benna</h1>
+<h1 align="center">Hi, 👋 I' m Benna</h1>
+
