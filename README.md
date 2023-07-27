@@ -1,4 +1,4 @@
-<img src ="https://github.com/s-benna/s-benna/blob/main/banner.jpg?raw=true">
+<img src ="https://github.com/s-benna/s-benna/blob/main/bannerrr.jpg?raw=true">
 
 <h1 align="center">Hi 👋, I'm Benna</h1>
 <h3 align="center">🔭 I' m working towards becoming a Java developer.</h3>
